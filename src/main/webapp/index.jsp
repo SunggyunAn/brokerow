@@ -7,6 +7,7 @@
 <title>index.html</title>
 </head>
 <body>
-
+<h1>제목1</h1>
+<h1>제목1</h1>
 </body>
 </html>
